@@ -32,7 +32,7 @@ module.exports = {
     contacts: {
       email: 'rhapsody3453@gmail.com',
       github: 'SangJoonDev',
-      // linkedIn: 'sangjoon-park--0830'
+      linkedIn: ''
     }
   }
 };
